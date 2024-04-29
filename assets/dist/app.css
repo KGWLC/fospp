@@ -1,0 +1,16 @@
+.icon {
+  width: 24px;
+  height: 24px;
+}
+
+.icon--search {
+  background: red;
+}
+
+.icon--cart {
+  background: blue;
+}
+
+.icon--favorite {
+  background: blue
+}
