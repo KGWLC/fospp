@@ -1,0 +1,2 @@
+// <!--🤙 CSS: Slater.app/6548/12519.css-->
+document.addEventListener("DOMContentLoaded", function() {function loadCSSapp(e){let t=document.createElement("link");t.setAttribute("href",e),t.setAttribute("rel","stylesheet"),document.body.appendChild(t),t.addEventListener("load",()=>{console.log("Slater loaded app CSS (Slater.app/6548/12519) 🤙")}),t.addEventListener("error",e=>{console.log("Error loading file",e)})}let href=window.location.host.includes("webflow.io")?"https://slater.app/6548/12519.css":"https://assets.slater.app/slater/6548/12519.css";loadCSSapp(href);})
